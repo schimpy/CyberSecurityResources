@@ -2,6 +2,7 @@
 
 ## HTTP
  * RequestBin - https://requestbin.com/
+ * ReqBin - https://reqbin.com/
  * Postman - https://www.postman.com/
  * BurpSuite - https://portswigger.net/burp/communitydownload
 
