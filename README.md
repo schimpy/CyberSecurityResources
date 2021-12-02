@@ -1,6 +1,11 @@
 # Cyber Security Resources
 
-## Cryptography and encoding - tools
+## HTTP
+ * RequestBin - https://requestbin.com/
+ * Postman - https://www.postman.com/
+ * BurpSuite - https://portswigger.net/burp/communitydownload
+
+## Cryptography
  * CyberChef - https://gchq.github.io/CyberChef/
  * dCode cipher identifier - https://www.dcode.fr/cipher-identifier
  * CrackStation precomputed hashes - https://crackstation.net/
